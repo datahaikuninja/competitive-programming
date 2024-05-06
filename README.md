@@ -1,6 +1,6 @@
 # datahaikuninja/competitive-programing
 
-My journey to competitive programing with rust and AtCoder.
+My journey to competitive programming with Rust and AtCoder.
 
 ## prerequiste
 1. install rust.
@@ -25,6 +25,9 @@ vi $HOME/Library/Application Support/cargo-atcoder.toml
 # competitive = { git = "https://github.com/tanakh/competitive-rs.git" }
 
 ```
+5. add `.gitignore` file.
+
+https://github.com/github/gitignore/blob/main/Rust.gitignore
 
 ## cheatsheet for cargo-atcoder
 
